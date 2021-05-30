@@ -43,7 +43,7 @@ class _StartingPageState extends State<StartingPage> {
         appBar: AppBar(
           title: Text('Vocal Training App'),
         ),
-        backgroundColor: Colors.white10,
+        backgroundColor: Colors.black,
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[

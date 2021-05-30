@@ -42,7 +42,7 @@ class _ManualMenuState extends State<ManualMenu> {
         appBar: AppBar(
           title: Text('Manual Play Menu'),
         ),
-        backgroundColor: Colors.white10,
+        backgroundColor: Colors.black,
         body: ListView(
             children: <Widget>[
               GestureDetector(onTap: (){
